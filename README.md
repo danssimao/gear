@@ -1,2 +1,2 @@
 # gear
-A template for creating TypeScript libraries
+A boilerplate for creating TypeScript libraries
